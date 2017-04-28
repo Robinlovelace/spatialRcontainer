@@ -8,4 +8,17 @@ included, along with packages for geospatial analysis including `sf`, `sp`,
 packages). Python 3 is installed along with `numpy`, `scipy`, `pandas` and
 others (see here for full list).
 
+## Usage
+
+To use this script, run the following from the terminal on Ubuntu:
+
+
+```bash
+# not tested
+wget https://github.com/mpadge/spatialRcontainer/archive/master.zip
+unzip master.zip
+chmod ... 
+bash spatialRcontainer/setup.sh
+```
+
 **Not yet in a working state: do not use**
